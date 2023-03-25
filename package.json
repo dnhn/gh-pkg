@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dnhn/gh-pkg/issues"
   },
-  "homepage": "https://github.com/dnhn/gh-pkg#readme"
+  "homepage": "https://github.com/dnhn/gh-pkg#readme",
+  "publishConfig": {
+    "@dnhn:registry": "https://npm.pkg.github.com"
+  }
 }
